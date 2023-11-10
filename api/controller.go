@@ -7,6 +7,7 @@ import (
 
 	"github.com/gobuffalo/packr/v2"
 	"github.com/gorilla/websocket"
+	"github.com/johnatasr/gonext/api/domain"
 )
 
 var (
